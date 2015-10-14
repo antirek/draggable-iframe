@@ -1,0 +1,16 @@
+{
+  "name": "draggable-iframe",
+  "version": "0.0.0",
+  "homepage": "https://github.com/antirek/draggable-iframe",
+  "authors": [
+    "Sergey Dmitriev <serge.dmitriev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
